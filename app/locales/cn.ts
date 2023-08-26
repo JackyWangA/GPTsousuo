@@ -1,7 +1,7 @@
 import { SubmitKey } from "../store/config";
 
 const cn = {
-  WIP: "该功能仍在开发中……",
+  WIP: "因每月免费额度已用完，无力支付API费用，只能暂停使用，非常抱歉！",
   Error: {
     Unauthorized:
       "前往[登录](/#/auth)页输入密码使用。",
@@ -275,7 +275,7 @@ const cn = {
     Revert: "恢复上下文",
   },
   Plugin: {
-    Name: "插件",
+    Name: "公告",
   },
   Mask: {
     Name: "面具",
