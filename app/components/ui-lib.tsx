@@ -215,7 +215,7 @@ export function Toast(props: ToastProps) {
 export function showToast(
   content: string,
   action?: ToastProps["action"],
-  delay = 3000,
+  delay = 6000,
 ) {
   const div = document.createElement("div");
   div.className = styles.show;
