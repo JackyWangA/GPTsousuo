@@ -1,7 +1,7 @@
 import { SubmitKey } from "../store/config";
 
 const cn = {
-  WIP: "免费额度已用完，无力支付API费用，只能暂停使用，抱歉！",
+  WIP: "欢迎使用！",
   Error: {
     Unauthorized:
       "前往[登录](/#/auth)页输入密码使用。",
