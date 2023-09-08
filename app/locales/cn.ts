@@ -1,7 +1,7 @@
 import { SubmitKey } from "../store/config";
 
 const cn = {
-  WIP: "欢迎使用！",
+  WIP: "API账户被封禁，暂停使用！",
   Error: {
     Unauthorized:
       "前往[登录](/#/auth)页输入密码使用。",
